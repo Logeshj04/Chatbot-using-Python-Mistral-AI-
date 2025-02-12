@@ -21,3 +21,27 @@ AI-powered chatbot with an interactive web UI, providing intelligent and context
 git clone https://github.com/your-username/mistral-ai-chatbot.git
 cd mistral-ai-chatbot
 ```
+### **2️⃣ Install Dependencies** 
+```
+pip install -r requirements.txt
+```
+### **3️⃣ Set Up Mistral API Key** 
+Replace "your_mistral_api_key" in app.py with your actual API key.
+### **🚀 Usage** 
+Run Locally
+python app.py
+Then open http://127.0.0.1:7860/ in your browser.
+### **Run in Google Colab** 
+Open mistral_chatbot.ipynb in Google Colab
+Run the cells to start chatting
+### **📂 Project Structure** 
+📦 mistral-ai-chatbot  
+ ┣ 📜 app.py              # Main chatbot script (Gradio UI)  
+ ┣ 📜 requirements.txt    # Dependencies  
+ ┣ 📜 mistral_chatbot.ipynb  # Jupyter Notebook version  
+ ┗ 📜 README.md           # Project documentation  
+### **🌐 Live Demo** 
+Try the chatbot on Hugging Face Spaces: 🔗 [Your Space Link](https://huggingface.co/spaces/LOGESH04/Chatbot_using_Python_MistralAI)
+### **📜 License** 
+This project is licensed under the MIT License.
+
