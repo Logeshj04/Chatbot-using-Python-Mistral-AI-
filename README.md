@@ -4,16 +4,15 @@ AI-powered chatbot with an interactive web UI, providing intelligent and context
 
 🚀 **An interactive AI chatbot powered by the Mistral AI API, built using Python and Gradio.**  
 
----
-![Smart Traffic System](![Smart traffic management]((https://github.com/Logeshj04/Chatbot-using-Python-Mistral-AI-/blob/main/Screenshot%202025-02-12%20195426.png?raw=true))
-)
+
+![chatbot](https://github.com/Logeshj04/Chatbot-using-Python-Mistral-AI-/blob/main/Screenshot%202025-02-12%20195426.png?raw=true)
 ## **🔹 Features**  
 ✅ **Mistral AI API Integration** – Uses `mistral-7b-instruct` for intelligent responses  
 ✅ **Interactive Chat Interface** – Built with `Gradio` for easy usage  
 ✅ **Context-Aware Conversations** – Maintains chat history for better interactions  
 ✅ **Fast & Lightweight** – Optimized for **Google Colab** and **Hugging Face Spaces**  
 
----
+
 
 ## **📌 Installation**  
 
