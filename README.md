@@ -5,7 +5,8 @@ AI-powered chatbot with an interactive web UI, providing intelligent and context
 🚀 **An interactive AI chatbot powered by the Mistral AI API, built using Python and Gradio.**  
 
 ---
-
+![Smart Traffic System](![Smart traffic management](https://github.com/Logeshj04/Project_iot_logesh1/assets/146071456/a213357a-bc2b-4a35-a612-f31f4649f1ec)
+)
 ## **🔹 Features**  
 ✅ **Mistral AI API Integration** – Uses `mistral-7b-instruct` for intelligent responses  
 ✅ **Interactive Chat Interface** – Built with `Gradio` for easy usage  
