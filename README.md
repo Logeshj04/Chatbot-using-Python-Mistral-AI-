@@ -41,7 +41,7 @@ Run the cells to start chatting
  ┣ 📜 mistral_chatbot.ipynb  # Jupyter Notebook version  
  ┗ 📜 README.md           # Project documentation  
 ### **🌐 Live Demo** 
-Try the chatbot on Hugging Face Spaces: 🔗 [Your Space Link](https://huggingface.co/spaces/LOGESH04/Chatbot_using_Python_MistralAI)
+Try the chatbot on Hugging Face Spaces: 🔗 [Space Link](https://huggingface.co/spaces/LOGESH04/Chatbot_using_Python_MistralAI)
 ### **📜 License** 
 This project is licensed under the MIT License.
 
